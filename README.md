@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning IOT and hardware programming.
--  📋 I'm working on many Salesforce Projects.
-- 📫 How to reach me: [📧 Email](mailto:alexsantosantana@live.com)
+-  📋 My day to day includes creative Front End work and Helping businesses improve their Sales pipeline by enhancing their Salesforce Projects.
+- 📫 How to reach me: [📧 Email](mailto:asantos@lightningleap.us)
 - ⚡ Fun fact: I am fluent in both Spanish & English
 
