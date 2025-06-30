@@ -12,7 +12,7 @@ My name is Alex and I am a freelance Software Engineer from the United States �
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning IOT and hardware programming.
+- 🌱 I’m currently learning IOT and hardware programming. [🧑🏽‍💻 Portfolio](https://alexsantos.dev)
 -  📋 My day to day includes creative Front End work and Helping businesses improve their Sales pipeline by enhancing their Salesforce Projects.
 - 📫 How to reach me: [📧 Email](mailto:asantos@lightningleap.us)
 - ⚡ Fun fact: I am fluent in both Spanish & English
